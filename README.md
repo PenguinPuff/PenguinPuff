@@ -12,6 +12,13 @@
 
 <p align = "center"> Connections: </p>
 
+Add this to your readme.md file and substitute href value with your social media link
+<div id="badges">
+  <a href="https://www.instagram.com/prznguin/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
+  </a>
+</div>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPuff&layout=compact) 
