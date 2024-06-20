@@ -14,7 +14,7 @@
 
 <div id="badges">
   <a href="https://www.instagram.com/prznguin/">
-    <img src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png"/>
+    <img align="center" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png"/>
   </a>
 </div>
 
