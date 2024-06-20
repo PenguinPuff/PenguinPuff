@@ -14,8 +14,8 @@
 
 Add this to your readme.md file and substitute href value with your social media link
 <div id="badges">
-  <a href="https://www.instagram.com/prznguin/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
+  <a align="center" href="https://www.instagram.com/prznguin/">
+    <img src="https://icon2.cleanpng.com/20240112/ejq/transparent-instagram-logo-colorful-camera-with-red-light-on-black-1710925877675.webp"/>
   </a>
 </div>
 
