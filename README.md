@@ -15,7 +15,7 @@
 Add this to your readme.md file and substitute href value with your social media link
 <div id="badges">
   <a href="https://www.instagram.com/prznguin/">
-    <img src="https://img.freepik.com/premium-psd/3d-instagram-logo-enamelled-sheet-metal-style_125540-5832.jpg"/>
+    <img src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png"/>
   </a>
 </div>
 
