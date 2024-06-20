@@ -12,7 +12,6 @@
 
 <p align = "center"> Connections: </p>
 
-Add this to your readme.md file and substitute href value with your social media link
 <div id="badges">
   <a href="https://www.instagram.com/prznguin/">
     <img src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png"/>
