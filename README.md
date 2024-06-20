@@ -1,4 +1,4 @@
-#                                                                             Hi, I am Prajeet Pushkar  
+#                                                                <center>      Hi, I am Prajeet Pushkar    </center
 
 ##                                                      Information Engineering (BSc.) student at the Technical University of Munich
 
