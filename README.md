@@ -2,7 +2,8 @@
 
 <h4 align = "center"> Information Engineering (BSc.) student at the Technical University of Munich </h4>
 
-I’m currently learning and working with: 
+<p align = "center"> I’m currently learning and working with: </p>
+ 
 
 
 Connections: 
