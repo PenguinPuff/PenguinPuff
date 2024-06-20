@@ -1,6 +1,7 @@
-<p align="center"> Hi, I am Prajeet Pushkar 
+<p align="center"> 
+#Hi, I am Prajeet Pushkar 
 
-#                                                     Information Engineering (BSc.) student at the Technical University of Munich
+                                                    Information Engineering (BSc.) student at the Technical University of Munich
 
 I’m currently learning and working with: 
 
