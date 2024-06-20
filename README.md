@@ -2,7 +2,9 @@
 
 <h4 align = "center"> Information Engineering (BSc.) student at the Technical University of Munich </h4>
 
-<img align="center" src="penguinTUM.jpg"> 
+<p align="center">
+  <img src="penguinTUM.jpg">
+</p>
 
 <p align = "center"> I’m currently learning and working with: </p>
  
