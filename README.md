@@ -20,6 +20,6 @@
   </a>
 </div>
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;justify-content:center;">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPuff&layout=compact" />
 </div>
