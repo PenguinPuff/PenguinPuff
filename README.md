@@ -20,4 +20,6 @@
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPuff&layout=compact) 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)" />
+</div>
