@@ -5,7 +5,6 @@
 <p align="center">
   <img src="penguinTUM.jpg">
 </p>
-<p align = "center"> E-mail: prajeet.pushkar@tum.de </p>
 
 <p align = "center"> I’m currently learning and working with: </p>
  
