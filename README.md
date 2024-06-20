@@ -10,7 +10,7 @@
  
 
 
-Connections: 
+<p align = "center"> Connections: </p>
 
 
 
