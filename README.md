@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi, I am Prajeet Pushkar </h1>
 
-<h4 align = "center"> BSc. Informatik student at the Technical University of Munich </h4>
+<h4 align = "center"> BSc. Information Engineering student and BSc. Management and Technology with Specialization in Computer Engineering at the Technical University of Munich </h4>
 
 <p align="center">
   <img src="penguinTUM.jpg">
