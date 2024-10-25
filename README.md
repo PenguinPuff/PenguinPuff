@@ -21,5 +21,5 @@
 </div>
 
 <p align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPuff&layout=donut)">
 </p>
