@@ -21,5 +21,5 @@
 </div>
 
 <p align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPuff&langscount=10&layout=compact">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPuff&langscount=9&layout=compact">
 </p>
