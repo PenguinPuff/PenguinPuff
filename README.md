@@ -1,8 +1,4 @@
-<h1 align = "center"> Hi, I am Prajeet Pushkar </h1>
-
-<p align="center">
-  <img src="penguinTUM.jpg">
-</p>
+<h1 align = "center"> Hi </h1>
 
 <p align = "center"> I’m currently learning and working with: </p>
  
