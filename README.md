@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi </h1>
 
-<p align = "center"> I’m currently learning and working with: </p>
+<p align = "center"> I’m a student at the Technical University of Munich </p>
  
 
 
@@ -15,5 +15,5 @@
 </div>
 
 <p align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPuff&langscount=9&layout=compact">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPuff&langscount=8&layout=compact">
 </p>
