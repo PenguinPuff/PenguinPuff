@@ -1,19 +1,4 @@
-<h1 align = "center"> Hi </h1>
-
-<p align = "center"> I’m a student at the Technical University of Munich </p>
- 
-
-
-<p align = "center"> Connections: </p>
-
-<div id="badges">
-  <a href="https://www.instagram.com/prznguin/">
-    <p align="center">
-    <img src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png"/>
-    </p>
-  </a>
-</div>
-
+student at technical university of munich and i am interested in operations research (integer programming, scheduling theory and algorithms), and also the theoretical sides of (discrete mathematics and) discrete optimization (theory of integer and combinatorial optimization), graph theory and adjacent fields in algorithmic game theory and computational social choice. i also like mathematical modeling
 <p align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPuff&langscount=8&layout=compact">
 </p>
