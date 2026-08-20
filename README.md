@@ -1,4 +1,1 @@
-i enjoy approximation algorithms, discrete mathematics (graph theory, posets) and operations research (combinatorial optimization).  
-<p align="left">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPuff&langscount=6&layout=compact">
-</p>
+i enjoy approximation algorithms (for problems such as traveling salesperson), discrete mathematics (graph theory, posets & diophantine equations) and operations research (combinatorial optimization).  
